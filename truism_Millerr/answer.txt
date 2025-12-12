@@ -1,0 +1,21 @@
+What line or lines in your code stores the file paths to the videos?
+
+const videoSources = [
+    "video/doom.mp4",
+    "video/mario.mp4",
+    "video/party.mp4",
+    "video/rain.mp4",
+    "video/falls.mp4"
+];
+--------------------------------------
+What line generates the random number used to pick the video?
+
+newIndex = Math.floor(Math.random() * videoSources.length);
+--------------------------------------
+I decided to bounce off the idea that the video is either showing that of nature or something that we would need money in order to create like the watching a plant drive around on a tv, or laser pointers going crazy with us "blacked out" (we were just posing for a video we didn't actually drink anything) and for the nature videos besides the windy video there is one of a lot of rain and one of Niagara Falls
+--------------------------------------
+Do your videos loop?
+Yeeah the videoPlayer.loop = true; makes every video loop continuously.
+--------------------------------------
+Do your videos change when the text box is clicked?
+Yep and it's random
