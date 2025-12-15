@@ -1,0 +1,29 @@
+This project is built around three different video arrays that together form a short, randomly generated film about starting the day and leaving for school. Each array represents a different stage of a daily routine.
+
+The first array, videoPart1, Is just of the woman waking up, paired with the caption “We all must get up at some point.” This array starts it all off with her getting up and this always plays first because well you cant do anything else until you've woken up for the day.
+
+The second array, videoPart2, is all about preparing for the day. This includes clips of making the bed, applying deodorant and chapstick, brushing hair, and making coffee. Each clip has its own caption, such as “Making your bed every morning helps with productivity” or “Do not talk to me until I have had my coffee.” Only one of these clips is randomly chosen each time the project runs, which adds variation and reflects how mornings can feel repetitive yet slightly different every day.
+
+The third array, videoPart3, is the final clip. The clip shows the woman putting on her shoes, grabbing her bag, and leaving, with the caption “Off to pursue my education.” I thought this was a nice and simple way to close it out.
+
+All video clips were filmed using a Canon EOS 7D.
+
+The full list of text that can appear in the project includes the opening title as well as the captions:
+
+“We all must get up at some point”
+
+“Making your bed every morning helps with productivity”
+
+“I have to make sure I am clean and ready for the day”
+
+“My hair is such a mess after waking up”
+
+“Do not talk to me until I have had my coffee”
+
+“Off to pursue my education”
+
+The text works alongside all the clips by adding a small bit of how one might think before they do any chore in their morning routine.
+
+No music was used in this project.
+
+Adobe Premiere Pro was used for editing and compressing the videos before placing them on the webpage.
